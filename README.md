@@ -82,4 +82,4 @@ The model architecture uses convolutional and pooling layers to identify facial 
 - Fully connected layers classify the features
 - Sigmoid output layer gives a probability of happy vs sad
 
-The model is trained for 25 epochs using the binary cross-entropy loss function and Adam optimizer.
+The model is trained for 20 epochs using the binary cross-entropy loss function and Adam optimizer.
