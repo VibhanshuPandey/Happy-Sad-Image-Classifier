@@ -79,7 +79,7 @@ The model architecture uses convolutional and pooling layers to identify facial 
 - Uses ReLU activation functions for non-linearity
 - Max pooling reduces spatial dimensions after convolutions 
 - Flattening converts image data into a 1D vector 
-- Fully-connected layers classify the features
+- Fully connected layers classify the features
 - Sigmoid output layer gives a probability of happy vs sad
 
-The model is trained for 20 epochs using the binary cross-entropy loss function and adam optimizer.
+The model is trained for 25 epochs using the binary cross-entropy loss function and Adam optimizer.
