@@ -4,6 +4,7 @@ This project trains a convolutional neural network (CNN) model to classify if fa
 
 # For downloading all the images from the Google use this extension
 https://download-all-images.mobilefirst.me
+
 ## Overview
 
 What the model does:
