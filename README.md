@@ -1,7 +1,6 @@
 # Happy/Sad Face Classifier
 
 
-
 This project trains a convolutional neural network (CNN) model to classify if faces in images look happy or sad. The model is trained on a dataset of labeled happy and sad face images.
 
 # For downloading all the images from the Google use this extension
